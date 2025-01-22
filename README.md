@@ -4,3 +4,4 @@ AULA 1: https://devsuperior.s3.sa-east-1.amazonaws.com/ijs-aula1-847623.pdf
 ![image](https://github.com/user-attachments/assets/219c9a25-7f9d-493f-a8d6-fe88a6521178)
 ![image](https://github.com/user-attachments/assets/d0143d3a-3f45-4802-bfcd-5d235101a5d3)
 
+Aula 2: https://devsuperior.s3.sa-east-1.amazonaws.com/ijs-aula2-489883.pdf
