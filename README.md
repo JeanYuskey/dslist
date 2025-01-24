@@ -199,6 +199,8 @@ https://gist.github.com/acenelio/5e40b27cfc40151e36beec1e27c4ff71
 ### Aula 4: https://devsuperior.s3.sa-east-1.amazonaws.com/ijs-aula4-398475.pdf
 ![image](https://github.com/user-attachments/assets/6d2fe0ae-a5bc-4cf6-8243-5c9d62925fb5)
 ![image](https://github.com/user-attachments/assets/8773eaf0-c670-4958-88ce-ba1110a6d8ff)
+![image](https://github.com/user-attachments/assets/8506f389-db49-4e39-8504-8101a0c357f8)
+
 
 ### Aula 5: RESUMO GERAL
 
