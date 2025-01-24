@@ -202,6 +202,10 @@ https://gist.github.com/acenelio/5e40b27cfc40151e36beec1e27c4ff71
 
 ### Aula 5: RESUMO GERAL
 
+![image](https://github.com/user-attachments/assets/a8bc5818-36f2-4654-b1f8-74d506b6fee7)
+
+
+
 
 
 
